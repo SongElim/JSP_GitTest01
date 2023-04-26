@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div id="wrap">
-		<h1>깃허브연습</h1>
+		<h1>깃허브연습 수정</h1>
 	</div>
 </body>
 </html>
